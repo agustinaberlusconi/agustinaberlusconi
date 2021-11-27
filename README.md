@@ -4,7 +4,10 @@
 
 <h1 align="center">Hi, I'm Agustina</h1>
 <h3 align="center">
-I like the development of web pages and videogames</h3>
+I like the development of web pages and videogames
+I program more than 4 years ago
+I am proud of my country, Uruguay
+Study in UTEC University</h3>
 
 <h3 align="left">Language</h3>
 
