@@ -5,6 +5,7 @@
 <h1 align="center">Hi, I'm Agustina</h1>
 <h3 align="center">I program in multiple languages ​​what I like the most are web pages and video game attempts</h3>
 <h3 align="center">I am from Uruguay and I study at UTEP</h3>
+<h3 align="center">I am 19 years old and I have been programming for 4 years</h3>
 
 <h3 align="left">Language</h3>
 
