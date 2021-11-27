@@ -7,7 +7,8 @@
 I like the development of web pages and videogames
 I program more than 4 years ago
 I am proud of my country, Uruguay
-Study in UTEC University</h3>
+Study in UTEC University
+</h3>
 
 <h3 align="left">Language</h3>
 
